@@ -1,0 +1,6 @@
+# ninja log v5
+3	6833	7373580255102895	CMakeFiles/Tarea2.dir/main.cpp.obj	22fa727a7f69752c
+50	6107	7373582276262749	build.ninja	b295f66da36c9ed0
+50	10013	7373581699135751	CMakeFiles/Tarea2.dir/Node.cpp.obj	93c7d65f1100f5b6
+10022	20145	7373581799194483	CMakeFiles/Tarea2.dir/LinkedList.cpp.obj	bad2d1ae9d445d4a
+20146	22741	7373581826986482	Tarea2.exe	be6ae80c4c7bef15
